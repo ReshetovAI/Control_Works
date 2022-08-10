@@ -1,0 +1,15 @@
+E:\школа\гигбрэйнс\Control_Works\bin\Debug\net6.0\Control_Works.exe
+E:\школа\гигбрэйнс\Control_Works\bin\Debug\net6.0\Control_Works.deps.json
+E:\школа\гигбрэйнс\Control_Works\bin\Debug\net6.0\Control_Works.runtimeconfig.json
+E:\школа\гигбрэйнс\Control_Works\bin\Debug\net6.0\Control_Works.dll
+E:\школа\гигбрэйнс\Control_Works\bin\Debug\net6.0\Control_Works.pdb
+E:\школа\гигбрэйнс\Control_Works\obj\Debug\net6.0\Control_Works.csproj.AssemblyReference.cache
+E:\школа\гигбрэйнс\Control_Works\obj\Debug\net6.0\Control_Works.GeneratedMSBuildEditorConfig.editorconfig
+E:\школа\гигбрэйнс\Control_Works\obj\Debug\net6.0\Control_Works.AssemblyInfoInputs.cache
+E:\школа\гигбрэйнс\Control_Works\obj\Debug\net6.0\Control_Works.AssemblyInfo.cs
+E:\школа\гигбрэйнс\Control_Works\obj\Debug\net6.0\Control_Works.csproj.CoreCompileInputs.cache
+E:\школа\гигбрэйнс\Control_Works\obj\Debug\net6.0\Control_Works.dll
+E:\школа\гигбрэйнс\Control_Works\obj\Debug\net6.0\refint\Control_Works.dll
+E:\школа\гигбрэйнс\Control_Works\obj\Debug\net6.0\Control_Works.pdb
+E:\школа\гигбрэйнс\Control_Works\obj\Debug\net6.0\Control_Works.genruntimeconfig.cache
+E:\школа\гигбрэйнс\Control_Works\obj\Debug\net6.0\ref\Control_Works.dll
